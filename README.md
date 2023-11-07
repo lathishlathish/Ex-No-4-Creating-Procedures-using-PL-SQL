@@ -40,5 +40,4 @@ CREATE OR REPLACE PROCEDURE emp_data AS
 ![270758399-50848e70-e38e-44fe-84d2-7f6e92d05db9](https://github.com/22008539/Ex-No-4-Creating-Procedures-using-PL-SQL/assets/118707617/eb854c26-0c45-41f1-b502-976afe7c3391)
 
 ### Result:
-
-THE PROGRAM HAS BEEN IMPLEMENTED SUCCESSFULLY...
+Thus a procedure has been successfully created and executed.
